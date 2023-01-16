@@ -1,7 +1,7 @@
 # Security-Bot
 Possibly the BEST Security Bot in all of Discord!
 Add the bot to your server and let it do it's magic!
-Run the command: ;cofig and the Bot will configure to default settings, this will include:
+Run the command: ;config and the Bot will configure to default settings, this will include:
 - Automod blacklist almost ALL of bad words, option to add or remove is integrated!
 - Spam muting; anyone that spams excessively will be muted for 1 hour, 6 hours, 1 day or even a week!
 - No bypassing! You can't bypass this bot, this Bot uses Discord's newest .rvs to link all accounts with same ip to the same punishments!
